@@ -1,3 +1,5 @@
+Last updated: Aug 18，2024
+
 Your privacy is important to us, and we are committed to protecting and respecting your privacy. This Policy explains how we collect and use your data and how you can control your information.
 
 ## Information Collection and Use
