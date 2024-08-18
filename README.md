@@ -8,6 +8,7 @@ Your privacy is important to us, and we are committed to protecting and respecti
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
 
 The app does use third party services that may collect information used to identify you.
+
 Link to privacy policy of third party service providers used by the app
 * [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 * [Firebase Crashlytics](https://firebase.google.com/support/privacy?hl=zh-cn)
